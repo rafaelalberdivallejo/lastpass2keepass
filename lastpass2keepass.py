@@ -177,9 +177,9 @@ def print_and_exit(error_message):
 
 def formatted_print(string):
     """Print a string between two horizontal lines."""
-    print HORIZ_LINE
-    print string
-    print HORIZ_LINE
+    print(HORIZ_LINE)
+    print(string)
+    print(HORIZ_LINE)
 
 
 if __name__ == '__main__':
