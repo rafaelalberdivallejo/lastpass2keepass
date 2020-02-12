@@ -6,7 +6,7 @@ Allows you to convert the LastPass export to a KeePass XML import.
 
 =over
 
-=item * Python 2.6 (sys, csv, datetime, re, xml)
+=item * Python 3.x
 
 =back
 
